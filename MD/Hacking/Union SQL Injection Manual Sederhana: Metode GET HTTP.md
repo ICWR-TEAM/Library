@@ -1,4 +1,3 @@
-
 # Union SQL Injection Manual Sederhana: Metode GET HTTP
 R&D ICWR 2024-01-18
 Disclaimer:
